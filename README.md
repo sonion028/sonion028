@@ -29,4 +29,5 @@
 
 ### 📈 我的GitHub统计
 ![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=sonion&show_icons=true&theme=radical)
+[![sonion028's GitHub | Stats](https://stats.quira.sh/sonion028/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sonion028)
 
