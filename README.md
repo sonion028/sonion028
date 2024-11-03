@@ -1,6 +1,6 @@
 # 你好，我是 Sonion 👋
 
-**前端开发者 | JavaScript | TypeScript | Vue.js | React
+**前端开发者 | JavaScript | TypeScript | Vue.js | React | Python | Django
 
 ---
 
