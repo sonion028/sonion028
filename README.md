@@ -23,12 +23,10 @@
 ---
 
 ### 📫 联系我
-- **电子邮件**: [你的邮箱地址]
-- **LinkedIn**: [你的LinkedIn链接]
-- **博客**: [你的个人博客链接]
+- **电子邮件**: [sonion028@gmail.com]
 
 ---
 
 ### 📈 我的GitHub统计
-![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=sonion&show_icons=true&theme=radical)
 
