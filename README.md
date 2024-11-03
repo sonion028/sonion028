@@ -10,8 +10,8 @@
 ---
 
 ### 💻 技术栈
-- **编程语言**: JavaScript, TypeScript
-- **框架**: Vue.js, React
+- **编程语言**: JavaScript, TypeScript, Python
+- **框架**: Vue.js, React, Django
 - **工具**: Vite, Webpack, Babel, SWC
 
 ---
